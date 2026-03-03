@@ -120,6 +120,9 @@ project-folder/
 2. Убедитесь, что все изображения находятся в папке `img`.
 3. Откройте файл `index.html` в браузере.
 
+## Демо
+https://said0208.github.io/learning-site-practice-1/
+
 ---
 
 ## 📌 Возможные улучшения
