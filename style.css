@@ -25,14 +25,14 @@
 }
 
 
-* {
-    margin: 0;
-    padding: 0;
-}
-
 a {
     text-decoration: none;
     color: inherit;
+}
+
+* {
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -491,9 +491,9 @@ img {
 
 }
 
-.portfolio__data > .portfolio__data-page:nth-child(2n) {
-    margin-top: 45px;
-}
+    .portfolio__data > .portfolio__data-page:nth-child(2n) {
+        margin-top: 45px;
+    }
 
 .portfolio__name-page {
     display: inline-block;
